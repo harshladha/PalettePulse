@@ -23,9 +23,3 @@ PalettePulse is a lightweight JavaScript application that dynamically updates th
 ## 🚀 Live Demo
 
 [👉 View Calculator](https://harshladha.github.io/calcify/)
-
-2. **Navigate to the Project Folder**
-   ```bash
-   cd PalettePulse
-
-3. **Open index.html in your Browser**
