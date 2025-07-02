@@ -20,14 +20,9 @@ PalettePulse is a lightweight JavaScript application that dynamically updates th
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Live Demo
 
-To run this project locally:
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/your-username/PalettePulse.git
+[👉 View Calculator](https://harshladha.github.io/calcify/)
 
 2. **Navigate to the Project Folder**
    ```bash
