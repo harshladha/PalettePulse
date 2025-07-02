@@ -22,4 +22,4 @@ PalettePulse is a lightweight JavaScript application that dynamically updates th
 
 ## 🚀 Live Demo
 
-[👉 View Calculator](https://harshladha.github.io/calcify/)
+[👉 View Calculator](https://harshladha.github.io/PalettePulse/)
